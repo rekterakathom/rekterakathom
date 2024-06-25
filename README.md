@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+I am a software engineering student from Finland currently creating free and open-source modded content for video games such as Arma 3.
+
+### About me
+⚡ Currently studying ICT
+
+⚡ Interested in:
+- Rust
+- Gamedev
+- Video game modding
+- Open-source development
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rekterakathom&show_icons=true&theme=gruvbox)]()
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L3JS9J5)
 <!--
 **rekterakathom/rekterakathom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
