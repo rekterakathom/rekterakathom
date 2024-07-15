@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a software engineering student from Finland currently creating free and open-source modded content for video games such as Arma 3.
+I am an ICT student from Finland currently creating free and open-source modded content for video games such as Arma 3.
 
 ### About me
 ⚡ Currently studying ICT
