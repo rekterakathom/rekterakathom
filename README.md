@@ -11,7 +11,6 @@ I am an ICT student from Finland currently creating free and open-source modded 
 - Video game modding
 - Open-source development
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rekterakathom&show_icons=true&theme=gruvbox)]()
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L3JS9J5)
 <!--
